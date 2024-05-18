@@ -1,0 +1,61 @@
+nav {
+  background: #b5afbd;
+  letter-spracing: 1px;
+  padding: 2rem;
+  text-align: center;
+  font-size: 35px;
+  word-spacing: 100px;
+font-family: Roboto, sans-serif;
+}
+#img img {
+  margin: 1em auto;
+  margin-left: 45em;
+   margin-left: 43em;
+  height: 250px;
+  width 250px;
+}
+main {
+  font-size: 45px;
+  text-align: center;
+  margin: 1em auto;
+  background: #d2d4cd;
+  padding: 3em;
+  width: 4em;
+}
+body {
+  background-image: url('https://st2.depositphotos.com/4376739/7076/v/950/depositphotos_70768923-stock-illustration-seamless-texture-wallpapers-in-the.jpg');
+  opacity: 0.9;
+}
+p {
+  text-align: center;
+  margin-left: 18em;
+  width: 40em;
+  background: #b5afbd;
+  padding: 1em;
+  font-size: 20px;
+}
+.column img {
+  float: left;
+  width: 23%;
+  padding: 5px;
+   margin-left: 2em; 
+  margin-right: 2em;
+  justify-content: center;
+  align-items: center;
+}
+
+.row img {
+  display: table;
+  margin-left: 2em; 
+  margin-right: 2em;
+}
+.row {
+  justify-content: center;
+  align-items: center;
+  margin-left: 10em;
+}
+#mich-jump img {
+  width: 40em;
+  height: 25em;
+  margin-top: -11em;
+}
